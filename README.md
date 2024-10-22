@@ -8,7 +8,7 @@
 [![PRs](https://img.shields.io/badge/AI-Podcast-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiPjwvZz48ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjwvZz48ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+PHBhdGggZD0iTTEzLDRWMjBhMSwxLDAsMCwxLTIsMFY0YTEsMSwwLDAsMSwyLDBaTTgsNUExLDEsMCwwLDAsNyw2VjE4YTEsMSwwLDAsMCwyLDBWNkExLDEsMCwwLDAsOCw1Wk00LDdBMSwxLDAsMCwwLDMsOHY4YTEsMSwwLDAsMCwyLDBWOEExLDEsMCwwLDAsNCw3Wk0xNiw1YTEsMSwwLDAsMC0xLDFWMThhMSwxLDAsMCwwLDIsMFY2QTEsMSwwLDAsMCwxNiw1Wm00LDJhMSwxLDAsMCwwLTEsMXY4YTEsMSwwLDAsMCwyLDBWOEExLDEsMCwwLDAsMjAsN1oiPjwvcGF0aD48L2c+PC9zdmc+)](https://microsoft.github.io/WindowsAgentArena/static/files/waa_podcast.wav)
 
 </div>
-
+(RealAGI Flavored)
 **Windows Agent Arena (WAA) 🪟** is a scalable Windows AI agent platform for testing and benchmarking multi-modal, desktop AI agents. WAA provides researchers and developers with a reproducible and realistic Windows OS environment for AI research, where agentic AI workflows can be tested across a diverse range of tasks.
 
 WAA supports the deployment of agents **at scale** using the Azure ML cloud infrastructure, allowing for the parallel running of multiple agents and delivering quick benchmark results for hundreds of tasks in minutes, not days.
